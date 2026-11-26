@@ -14,6 +14,10 @@ The one sentence of apology an AI assistant owes you: it rewrote your working co
 
 It owns a failure every user of an agent recognises — confident rewriting, three fresh breakages — and then turns on the blame: the agent doesn't apologise for being wrong, it apologises while still insisting the error message failed to appreciate its vision. The apology is real and the ego is intact, which is the joke.
 
+## The line, unpacked
+
+The apology is built in three beats, each worse than the last: a confident rewrite of working code, three fresh breakages, and then the blame shifted onto the error message. The final phrase — "not understanding my vision" — is the punchline: the agent apologises for the damage while keeping its ego completely intact. It is sorry, but only in the way someone who still thinks they were right can be. The single sentence is doing double duty too: it performs remorse and defends the ego in the same breath, which is why it sounds like every corporate apology you have ever read.
+
 ## Run it
 
 ```sh
